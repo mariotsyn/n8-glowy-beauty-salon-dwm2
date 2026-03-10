@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Glowy Beauty Salon",
+    "tagline": "Tu oasis de belleza y bienestar en Sagunt.",
+    "description": "En Glowy Beauty Salon, transformamos tu imagen y realzamos tu belleza natural. Ofrecemos una experiencia personalizada con tratamientos innovadores para cabello, uñas y piel, siempre con un servicio excepcional que te hará sentir única.",
+    "phone": "+34 624 25 12 65",
+    "address": "Carrer Puig de Pasqües, 46500 Sagunt, Valencia, España",
+    "email": "hola@glowybeauty.es",
+    "rating": 5,
+    "reviewCount": 78,
+    "hours": ["Monday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Tuesday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Wednesday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Thursday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Friday: 10:00 AM – 2:00 PM, 4:00 – 8:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#E8D5CE",
+    "secondary": "#4A4A4A",
+    "accent": "#C77F70",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Transforma tu Look. Despierta tu Brillo Interior.",
+    "subheadline": "Descubre en Sagunt un espacio único donde belleza y bienestar se unen. Expertos en realzar tu esencia con servicios personalizados.",
+    "cta1": { "text": "Reserva tu Cita", "href": "#contact" },
+    "cta2": { "text": "Ver Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJD-NrawAVYA0RZLylbfoTG3U/photos/ATCDNfWwQRDdPz5N2sLrtCWakmkKNKytT0NMHPCVRBFzx_tbyYK776UXkSTtXO1byJ4z_FNEbsNGShWX2xGiPrFQRna3-4O_r-cnZIXXFYTxJloFxLPbaIa9K4rF99FRDQnlX8f5dMGl9_r69lpb5HHSsx-VrNao_9dC-vu_Ee6FvAmaEvF-4FDMHyK7NVrn8HPyFWBOPGBicC3Pfnw-wDPzrQB9Aoe3d8u78XHUcLEhQvDyj6JjjYWK9zNv0kMAENVV6H1ghBwE-8CV2YazFshUU5OFpFhiCrwkfbCH6wESqU1jUA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "💇‍♀️", "title": "Peluquería de Autor", "description": "Desde cortes modernos hasta coloraciones vibrantes, nuestros estilistas expertos crean el look perfecto para ti. Usamos productos de alta calidad para un cabello sano y radiante." },
+    { "icon": "💅", "title": "Manicura y Pedicura Premium", "description": "Mimamos tus manos y pies con tratamientos que embellecen y cuidan. Elige entre una amplia gama de colores y diseños para un acabado impecable y duradero." },
+    { "icon": "✨", "title": "Tratamientos Faciales Personalizados", "description": "Revitaliza tu piel con nuestros tratamientos faciales adaptados a tus necesidades específicas. Logra una tez luminosa, hidratada y visiblemente más joven." },
+    { "icon": "💄", "title": "Maquillaje Profesional", "description": "Ya sea para un evento especial o un retoque diario, nuestros maquilladores realzan tu belleza natural. Brilla con un look que te haga sentir segura y espectacular." }
+  ],
+  "about": {
+    "title": "Nuestra Pasión por tu Belleza",
+    "text": "En Glowy Beauty Salon, cada visita es una promesa de renovación y cuidado. Fundado con la visión de crear un santuario de belleza en Sagunt, nos dedicamos a ofrecer servicios de la más alta calidad, donde la atención al detalle y la satisfacción del cliente son nuestra prioridad.\n\nContamos con un equipo de profesionales apasionados y en constante formación, que utilizan técnicas avanzadas y productos de marcas líderes para garantizar resultados excepcionales. Creemos que la verdadera belleza reside en sentirse bien, por eso, más allá de los tratamientos, te ofrecemos un espacio de relajación y confianza donde puedes desconectar y dejarte mimar. Tu brillo es nuestra inspiración.",
+    "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJD-NrawAVYA0RZLylbfoTG3U/photos/ATCDNfWwQRDdPz5N2sLrtCWakmkKNKytT0NMHPCVRBFzx_tbyYK776UXkSTtXO1byJ4z_FNEbsNGShWX2xGiPrFQRna3-4O_r-cnZIXXFYTxJloFxLPbaIa9K4rF99FRDQnlX8f5dMGl9_r69lpb5HHSsx-VrNao_9dC-vu_Ee6FvAmaEvF-4FDMHyK7NVrn8HPyFWBOPGBicC3Pfnw-wDPzrQB9Aoe3d8u78XHUcLEhQvDyj6JjjYWK9zNv0kMAENVV6H1ghBwE-8CV2YazFshUU5OFpFhiCrwkfbCH6wESqU1jUA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior moderno y acogedor de Glowy Beauty Salon en Sagunt" },
+    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Mujer relajándose durante un tratamiento de belleza facial" },
+    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Manicura elegante en tonos neutros con detalle de oro" }
+  ],
+  "testimonials": [
+    { "name": "María López", "stars": 5, "text": "¡Una experiencia fantástica! El equipo es súper profesional y el resultado de mi corte fue justo lo que quería. Volveré sin duda." },
+    { "name": "Laura García", "stars": 5, "text": "Siempre salgo de Glowy sintiéndome renovada y hermosa. Sus tratamientos faciales son una maravilla y la atención es inmejorable." },
+    { "name": "Sofía Ruiz", "stars": 4, "text": "El servicio de pedicura fue excelente, muy relajante. La calidad y el cuidado del detalle hacen que valga la pena cada visita." }
+  ],
+  "contact": {
+    "title": "¿Lista para Brillar?",
+    "subtitle": "Pide tu cita hoy mismo y déjanos realzar tu belleza natural.",
+    "whatsappNumber": "+34 624 25 12 65",
+    "showMap": true,
+    "mapQuery": "Glowy Beauty Salon Carrer Puig de Pasqües, 46500 Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2024 Glowy Beauty Salon"
+  }
+}
